@@ -1,0 +1,16 @@
+h2.introduction {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+}
+p.introduction {
+  font-style: italic;
+  color: grey
+}
+h3 {
+  font-weight: bold;
+  text-align: left;
+}
+p {
+  font-style: italic;
+}
